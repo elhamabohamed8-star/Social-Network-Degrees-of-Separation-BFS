@@ -144,11 +144,9 @@ final project.ipynb
 
 # Author
 
-**Elham Mohamed**
+**Elham Mosaad**
 
-Data Structures & Algorithms Project
-
-Faculty of Computers and Artificial Intelligence
+Faculty of Computers and Data Science
 
 ---
 
