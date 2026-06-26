@@ -46,38 +46,6 @@ Where:
 
 ---
 
-# Screenshots
-
-## GUI
-
-```
-screenshots/gui.png
-```
-
-## Shortest Path
-
-```
-screenshots/shortest_path.png
-```
-
-## Output
-
-```
-screenshots/output.png
-```
-
-After uploading the images to the `screenshots` folder, replace the code blocks above with:
-
-```markdown
-![GUI](screenshots/gui.png)
-
-![Shortest Path](screenshots/shortest_path.png)
-
-![Output](screenshots/output.png)
-```
-
----
-
 # Project Structure
 
 ```text
